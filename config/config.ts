@@ -79,13 +79,22 @@ export const Config: LLConfig = {
             },
             hide: true
         }, {
-            name: "Hull Students' Union",
+            name: "Students Union",
             href: "https://hulluniunion.com/activities/view/ComputerScience",
             desc: "Hull University Union's Computer Science Society",
             link: "husu",
             icon: {
                 code: "f19d",
                 bold: false
+            }
+        }, {
+            name: "Email",
+            href: "mailto:hullcss.org",
+            desc: "hullcss email",
+            link: "email",
+            icon: {
+                code: "f0e0",
+                bold: true
             }
         }
     ]
