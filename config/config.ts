@@ -96,6 +96,16 @@ export const Config: LLConfig = {
                 code: "f0e0",
                 bold: true
             }
+        }, {
+            name: "AGM 2024",
+            href: "https://forms.office.com/e/xRxwyr61xd​",
+            desc: "Join us for our AGM",
+            link: "agm2024",
+            icon: {
+                code: "f19d",
+                bold: false
+            },
+            hide: true
         }
     ]
 }
