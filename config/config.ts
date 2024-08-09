@@ -13,15 +13,6 @@ export const Config: LLConfig = {
     image: "/favicon.svg",
     links: [
         {
-            name: "GitHub",
-            href: "https://github.com/hullcss",
-            desc: "HullCSS' GitHub",
-            link: "github",
-            icon: {
-                code: "f09b",
-                bold: false
-            }
-        }, {
             name: "Website",
             href: "https://hullcss.org",
             desc: "Check out our website",
@@ -95,6 +86,15 @@ export const Config: LLConfig = {
             icon: {
                 code: "f0e0",
                 bold: true
+            }
+        }, {
+            name: "GitHub",
+            href: "https://github.com/hullcss",
+            desc: "HullCSS' GitHub",
+            link: "github",
+            icon: {
+                code: "f09b",
+                bold: false
             }
         }, {
             name: "AGM 2024",
