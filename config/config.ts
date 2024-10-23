@@ -80,7 +80,7 @@ export const Config: LLConfig = {
             }
         }, {
             name: "Email",
-            href: "mailto:hullcss.org",
+            href: "mailto:hullcss@hull.ac.uk",
             desc: "hullcss email",
             link: "email",
             icon: {
